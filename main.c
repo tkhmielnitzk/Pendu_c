@@ -10,7 +10,7 @@
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
+    // insert code here... ajout inutile
     printf("Bonjour, World!!, ca va ?\n");
 
     return 0;
